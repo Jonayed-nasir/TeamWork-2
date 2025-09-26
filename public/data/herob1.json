@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Latest News Updates",
+    "subtitle": "Stay Current",
+    "description": "Over 1000 articles published monthly",
+    "icon": "/image/home/button.png",
+    "image": "/image/home/latest.png"
+  },
+  {
+    "title": "Expert Contributors",
+    "subtitle": "Trusted Insights",
+    "description": "50+ renowned AI experts on our team",
+    "icon": "/image/home/button.png",
+    "image": "/image/home/expert.png"
+  },
+  {
+    "title": "Global Readership",
+    "subtitle": "Worldwide Impact",
+    "description": "2 million+ monthly readers",
+    "icon": "/image/home/button.png",
+    "image": "/image/home/global.png"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Section": "General Inquiries",
+    "Details": {
+      "item": "📧 contact@ai-podcasts.com",
+      "item1": "📞 +1 (123) 456-7890"
+    }
+  },
+  {
+    "Section": "Technical Support",
+    "Details": {
+      "item": "💻 contact@ai-podcasts.com",
+      "item1": "🛠️ +1 (123) 456-7890"
+    }
+  },
+  {
+    "Section": "Our Office",
+    "Details": {
+      "item": "📍 123 AI Tech Avenue, Techville, 54321",
+      "item1": "🗺️ Link to Get Directions"
+    }
+  },
+  {
+    "Section": "Connect with Us",
+    "Details": {
+      "SocialMedia": [
+        {
+          "Platform": "Twitter",
+          "Icon": "🐦 Twitter Icon"
+        },
+        {
+          "Platform": "Medium",
+          "Icon": "✍️ Medium Icon"
+        },
+        {
+          "Platform": "LinkedIn",
+          "Icon": "👔 LinkedIn Icon"
+        }
+      ]
+    }
+  }
+]

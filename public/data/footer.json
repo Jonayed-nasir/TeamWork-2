@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Home",
+    "items": [
+      { "name": "Features" },
+      { "name": "Blogs" },
+      { "name": "Resources", "badge": "New" },
+      { "name": "Testimonials" },
+      { "name": "Contact Us" },
+      { "name": "Newsletter" }
+    ]
+  },
+  {
+    "title": "News",
+    "items": [
+      { "name": "Trending Stories" },
+      { "name": "Featured Videos" },
+      { "name": "Technology" },
+      { "name": "Health" },
+      { "name": "Politics" },
+      { "name": "Environment" }
+    ]
+  },
+  {
+    "title": "Blogs",
+    "items": [
+      { "name": "Quantum Computing" },
+      { "name": "AI Ethics" },
+      { "name": "Space Exploration" },
+      { "name": "Biotechnology", "badge": "New" },
+      { "name": "Renewable Energy" },
+      { "name": "Biohacking" }
+    ]
+  },
+  {
+    "title": "Podcasts",
+    "items": [
+      { "name": "AI Revolution" },
+      { "name": "AI Revolution", "badge": "New" },
+      { "name": "TechTalk AI" },
+      { "name": "AI Conversations" }
+    ]
+  },
+  {
+    "title": "Resources",
+    "items": [
+      { "name": "Whitepapers" },
+      { "name": "Ebooks", "icon": "arrow" },
+      { "name": "Reports", "icon": "arrow" },
+      { "name": "Research Papers", "icon": "arrow" }
+    ]
+  }
+]
