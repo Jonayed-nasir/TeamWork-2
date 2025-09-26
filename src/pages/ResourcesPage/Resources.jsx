@@ -1,10 +1,18 @@
 import React from 'react'
-
+import ResourcesPageHeroSection from './ResourcesPageHeroSection'
+import ReportsAnalysisSection from './ReportsAnalysisSection'
+import ResourcesPageBlogSection from './ResourcesPageBlogSection'
+import ResourcePageCards from './ResourcePageCards'
+import ResourcePageLastSection from './ResourcePageLastSection'
 function Resources() {
   return (
-    <div>
-      <div  className='text-white'>This is Resources page</div>
-    </div>
+    <>
+      <ResourcesPageHeroSection/>
+      <ReportsAnalysisSection/>
+      <ResourcesPageBlogSection/>
+      <ResourcePageCards/>
+      <ResourcePageLastSection/>
+    </>
   )
 }
 

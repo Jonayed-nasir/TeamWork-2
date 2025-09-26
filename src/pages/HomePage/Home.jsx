@@ -4,6 +4,7 @@ function Home() {
   return (
     <div className='text-white'>
       <div data-aos="fade-down">This is Home page</div>
+
     </div>
   )
 }
