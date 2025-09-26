@@ -14,6 +14,7 @@ import Revelotioncard from './Revelotion-card'
 
 function Home() {
   return (
+
     <div className='text-white max-w-[1920px] mx-auto overflow-hidden' >
       <Hero/>
       <Herobuttom/>
@@ -27,6 +28,10 @@ function Home() {
       <Testomonial/>
       <Revelotion/>
       <Revelotioncard/>
+
+    <div className='text-white'>
+      <div data-aos="fade-down">This is Home page</div>
+
     </div>
   )
 }

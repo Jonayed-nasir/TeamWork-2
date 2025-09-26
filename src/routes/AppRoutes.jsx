@@ -8,6 +8,10 @@ import News from '../pages/NewsPage/News'
 import Podcasts from '../pages/PodcastsPage/Podcasts'
 import Resources from '../pages/ResourcesPage/Resources'
 import Contact from '../pages/ContactPage/Contact'
+
+import Blog from '../pages/BlogOpenPage/Blog'
+
+import Error from '../pages/Error/Error'
 function AppRoutes() {
   return (
     <div>
@@ -17,9 +21,11 @@ function AppRoutes() {
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/News' element={<News/> } />
+        <Route path='/Blog' element={<Blog/> } />
         <Route path='/Podcasts' element={<Podcasts/> } />
         <Route path='/Resources' element={<Resources/> } />
         <Route path='/Contact' element={<Contact/> } />
+        <Route path='/*' element={<Error/> } />
 
       </Routes>
       {/* footer */}
