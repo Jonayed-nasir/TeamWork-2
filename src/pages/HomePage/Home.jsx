@@ -33,6 +33,7 @@ function Home() {
       <div data-aos="fade-down">This is Home page</div>
 
     </div>
+    </div>  
   )
 }
 

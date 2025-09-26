@@ -1,6 +1,6 @@
 
 import './App.css'
-import {Button, HeroUIProvider} from "@heroui/react"; 
+import {HeroUIProvider} from "@heroui/react"; 
 import AppRoutes from './routes/AppRoutes';
 import { BrowserRouter } from 'react-router-dom';
 

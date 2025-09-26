@@ -19,7 +19,7 @@ function AppRoutes() {
       <NavBar />
       {/* routes */}
       <Routes>
-        <Route path='/' element={<Home/>} />
+        <Route path='/' element={<Home />} />
         <Route path='/News' element={<News/> } />
         <Route path='/Blog' element={<Blog/> } />
         <Route path='/Podcasts' element={<Podcasts/> } />
