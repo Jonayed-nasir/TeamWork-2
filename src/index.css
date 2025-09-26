@@ -1,4 +1,15 @@
-@import "tailwindcss";
+.gradient-bg{
+    position: relative;
+}
+.gradient-bg::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+ background-image: linear-gradient(to bottom,  transparent 20% ,#141414  );
+}
 @import "tailwindcss";
 @plugin '../hero.ts';
 /* Note: You may need to change the path to fit your project structure */
