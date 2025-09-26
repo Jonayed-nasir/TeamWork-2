@@ -1,9 +1,25 @@
 import React from 'react'
+import Hero from './Hero'
+import Revolution from './Revolution'
+import Conversations from './Conversations'
+import Episodes from './Episodes'
+import Card from './Card'
+import Future from './Future'
+import Card2 from './Card2'
+
 
 function Podcasts() {
   return (
     <div>
-      <div  className='text-white'>This is Podcasts page</div>
+
+      < Hero/>
+      <Revolution />
+      <Conversations/>
+      <Episodes/>
+      <Card />
+      <Future/>
+      <Card2/>
+
     </div>
   )
 }
