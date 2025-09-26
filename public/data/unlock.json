@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Ebooks",
+    "description": "Explore our collection of ebooks covering a wide spectrum of future technology topics.",
+    "icon": "/image/home/ebook.png",
+    "buttonText": "Download Ebooks Now",
+    "downloadedBy": "10k+ Users",
+    "features": {
+      "sectionTitle": "Variety of Topics",
+      "image": "/image/home/topic.png",
+      "textEbooks": "Over 300 ebooks",
+      "downloadFormat": "PDF format for access",
+      "preview": true,
+      "expertNote": "Ebooks are authored by renowned experts with an average of 15 years of experience."
+    }
+  },
+  {
+    "title": "Whitepapers",
+    "description": "Dive into extensive research studies and analyses with our collection of whitepapers.",
+    "icon": "/image/home/white.png",
+    "buttonText": "Download Whitepapers Now",
+    "downloadedBy": "10k+ Users",
+    "features": {
+      "sectionTitle": "Topics Coverage",
+      "image": "/image/home/cover.png",
+      "textWhitepapers": "Over 600 whitepapers",
+      "downloadFormat": "PDF format for access",
+      "preview": true,
+      "expertNote": "Whitepapers are written by subject matter experts with an average of 20 years of experience."
+    }
+  }
+]

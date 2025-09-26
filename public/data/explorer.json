@@ -1,0 +1,38 @@
+[
+  {
+    "author": "John Techson",
+    "category": "Quantum Computing",
+    "date": "October 15, 2023",
+    "image":"/image/home/john.png",
+    "title": "The Quantum Leap in Computing",
+    "description": "Explore the revolution in quantum computing, its applications, and its potential impact on various industries.",
+    "likes": 245,
+    "comments": 59,
+    "shares": 30,
+    "link": "View Blog"
+  },
+  {
+    "author": "Sarah Ehrlich",
+    "category": "AI Ethics",
+    "date": "November 5, 2023",
+    "image":"/image/home/sarah.png",
+    "title": "The Ethical Dilemmas of AI",
+    "description": "A deep dive into the ethical challenges posed by AI, including bias, privacy, and transparency.",
+    "likes": 336,
+    "comments": 72,
+    "shares": 9,
+    "link": "View Blog"
+  },
+  {
+    "author": "Astronomer X",
+    "category": "Space Exploration",
+    "date": "December 10, 2023",
+    "image":"/image/home/astron.png",
+    "title": "The Mars Colonization Challenge",
+    "description": "Exploring the technical and logistical challenges of human colonization on Mars.",
+    "likes": 236,
+    "comments": 58,
+    "shares": 12,
+    "link": "View Blog"
+  }
+]

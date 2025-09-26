@@ -11,6 +11,9 @@ import Card from './Card';
 function Blog() {
   return (
     <div>
+
+      <div  className='text-white'>This is Blog Page</div>
+
       <Hero />
       <Introduction />
       <News />
